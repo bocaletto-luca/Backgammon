@@ -5,6 +5,8 @@
 [![Made with CSS3](https://img.shields.io/badge/Made%20with-CSS3-1572B6?logo=css3)](https://www.w3.org/Style/CSS/)  
 [![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)    
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Backgammon/)
+
 **Backgammon - Single Player vs Bot (Full Rules)** is a modern, fully responsive web game that brings a simplified yet rich version of the classic Backgammon experience to your browser. In this implementation, you play as “White” against a Bot (“Black”) following nearly complete rules—including hitting, the Bar for checkers, re-entry mechanics, and bearing off.
 
 > The project is implemented using HTML5, CSS3, and JavaScript. The game layout is split into three main parts:
