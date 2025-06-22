@@ -105,3 +105,4 @@ Help: Click the Help button at the top right for detailed game instructions.
 
 #### Enjoy Game, By Bocaletto Luca
  
+#### License: GPLv3
